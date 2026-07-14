@@ -2,12 +2,12 @@
 
 # Hi, I'm hxaxd 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=CS+%40+Shenyang+Agricultural+University+%C2%B7+2023+Cohort;Backend+Engineer+%C2%B7+Harness+Engineer;Exploring+the+Boundaries+of+Intelligence." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=CS+%40+Shenyang+Agricultural+University+%C2%B7+2023+Cohort;Backend+Engineer+%C2%B7+Building+Agent+Harnesses;Building+Environments+Where+Models+Act+and+Learn." alt="Typing introduction" />
 
 <br />
 
 <img src="https://img.shields.io/badge/Education-CS%20%C2%B7%202023%20Cohort-58A6FF?style=for-the-badge" alt="CS, 2023 Cohort" />
-<img src="https://img.shields.io/badge/Focus-Harness%20Engineering-7C3AED?style=for-the-badge" alt="Focus: Harness Engineering" />
+<img src="https://img.shields.io/badge/Focus-Harness%20Engineering-7C3AED?style=for-the-badge&logo=robotframework&logoColor=white" alt="Focus: Harness Engineering" />
 <img src="https://img.shields.io/badge/Role-Backend%20Engineer-16A34A?style=for-the-badge" alt="Role: Backend Engineer" />
 
 </div>
@@ -23,11 +23,12 @@
 
 ## 🚀 What I'm Exploring
 
-What I really want to know is this: if nature itself provides the feedback, and reinforcement learning is the paradigm, can a model's intelligence surpass human intelligence?
+My long-term question is whether models can develop capabilities beyond human performance when feedback comes directly from the environments in which they act.
 
-I am using one of humanity's finest achievements to date—LLMs—to explore their interaction, agency, and evolution within real textual environments. For a language model, the harness is the environment in which it acts, receives feedback, and changes—its natural world.
+I work with LLMs to study how agents act, receive feedback, and adapt in real textual environments. The harness is the system that connects a model to its environment, shaping what it can observe, do, and learn from.
 
 <p>
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square&logo=probot&logoColor=white" alt="AI Agents" />
   <img src="https://img.shields.io/badge/Harness%20Engineering-111827?style=flat-square&logo=robotframework&logoColor=white" alt="Harness Engineering" />
   <img src="https://img.shields.io/badge/Foundation%20Models-111827?style=flat-square&logo=googlegemini&logoColor=white" alt="Foundation Models" />
   <img src="https://img.shields.io/badge/Agent%20Algorithms-111827?style=flat-square&logo=githubcopilot&logoColor=white" alt="Agent Algorithms" />
@@ -40,15 +41,15 @@ I am using one of humanity's finest achievements to date—LLMs—to explore the
 
 ### [hxlog](https://github.com/hxaxd/hxlog)
 
-Reconstructing knowledge from classic books, not merely taking reading notes. It models concepts, relationships, and learning paths at a high level of abstraction, with the goal of turning classic works into teaching indexes and curricula for the AI era. The structure is not designed for linear reading; it is designed for agents to understand, organize, and teach knowledge.
+hxlog turns classic books into structured maps of concepts, relationships, and learning paths. Rather than serving as linear reading notes, it is designed as a knowledge structure that both people and agents can use to navigate and teach the material.
 
 ### [hxaxd-research](https://github.com/hxaxd/hxaxd-research)
 
-My personal research workspace, where agents participate in literature discovery, domain learning, idea review, experimental design, and execution—an exploration of how frontier intelligence can become part of real scientific workflows.
+My personal research workspace, where I experiment with using agents for literature discovery, domain learning, idea review, experimental design, and execution. The goal is to understand where they can meaningfully support scientific work.
 
-### ???
+### In Progress
 
-Not ready to talk about this yet. A new self-evolving harness paradigm.
+An early-stage experiment in self-improving agent harnesses. I will share more once the design is stable enough to evaluate.
 
 ## 🧭 Experience
 
@@ -58,7 +59,7 @@ Not ready to talk about this yet. A new self-evolving harness paradigm.
 
 ## 🤝 Open Source & Collaboration
 
-I also enjoy contributing to open-source projects around AI agents—submitting PRs, fixing issues, and extending useful tools. If you are building the next generation of agents, I would love to collaborate.
+I also enjoy contributing to open-source projects around AI agents—submitting PRs, fixing issues, and extending useful tools. If you are working on agent infrastructure, evaluation, or related tools, I would be glad to exchange ideas or collaborate.
 
 ## 🎓 Education
 
