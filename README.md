@@ -12,16 +12,16 @@
   <a href="https://hxaxd.github.io/">
     <img src="https://img.shields.io/badge/Personal%20Website-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Personal Website" />
   </a>
-  <a href="https://hxaxd.github.io/hxaxd-learn/">
-    <img src="https://img.shields.io/badge/hxaxd--learn-7C3AED?style=for-the-badge&logo=gitbook&logoColor=white" alt="hxaxd-learn" />
+  <a href="https://github.com/hxaxd/remote-everything">
+    <img src="https://img.shields.io/badge/Remote%20Everything-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Remote Everything" />
   </a>
 </div>
 
 ## 🛠 Work
 
-### [hxaxd-learn](https://github.com/hxaxd/hxaxd-learn)
+### [Remote Everything](https://github.com/hxaxd/remote-everything)
 
-My learning notes.
+Connect to any web service running on your computer from a mobile device.
 
 ### [hxaxd-research](https://github.com/hxaxd/hxaxd-research)
 
