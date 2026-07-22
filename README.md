@@ -15,6 +15,9 @@
   <a href="https://github.com/hxaxd/remote-everything">
     <img src="https://img.shields.io/badge/Remote%20Everything-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Remote Everything" />
   </a>
+  <a href="https://github.com/hxaxd/hxaxd-research">
+    <img src="https://img.shields.io/badge/hxaxd--research-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="hxaxd-research" />
+  </a>
 </div>
 
 ## 🛠 Work
