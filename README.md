@@ -30,7 +30,7 @@ A framework that turns agent evaluations, real-world traces, and human feedback 
 
 An integrated phenotyping and breeding-decision platform for northern rice, connecting field observations, remote-sensing imagery, algorithmic analysis, and plot selection.
 
-### [hxaxd/learn/hxaxd](https://github.com/hxaxd/hxaxd-learn)
+### [hxaxd-learn](https://github.com/hxaxd/hxaxd-learn)
 
 My computer science notes since my first year of university, organized by knowledge domain and by book.
 
