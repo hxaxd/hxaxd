@@ -40,7 +40,7 @@ Connect to any web service running on your computer from a mobile device.
 
 ### [hxaxd-research](https://github.com/hxaxd/hxaxd-research)
 
-A research workbench I use for literature discovery, domain learning, idea review, experimental design, and execution — currently mainly in the form of a DeepSeek Harness (DSH) plugin.
+A research workbench I use for literature discovery, domain learning, idea review, experimental design, and execution. It is a DeepSeek Harness plugin.
 
 ## 🧭 Experience
 
