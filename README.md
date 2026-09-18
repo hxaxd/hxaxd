@@ -15,7 +15,7 @@
   <a href="https://github.com/hxaxd/kochab">
     <img src="https://img.shields.io/badge/Kochab-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Kochab" />
   </a>
-  <a href="https://github.com/hxaxd/smart-breeding">
+  <a href="http://47.97.117.46/">
     <img src="https://img.shields.io/badge/Smart%20Breeding-16A34A?style=for-the-badge&logo=leaflet&logoColor=white" alt="Smart Breeding" />
   </a>
 </div>
@@ -26,7 +26,7 @@
 
 A framework that turns agent evaluations, real-world traces, and human feedback into verifiable, reviewable, and reversible improvements.
 
-### [Smart Breeding](https://github.com/hxaxd/smart-breeding)
+### [Smart Breeding](http://47.97.117.46/)
 
 An integrated phenotyping and breeding-decision platform for northern rice, connecting field observations, remote-sensing imagery, algorithmic analysis, and plot selection.
 
@@ -40,7 +40,7 @@ Connect to any web service running on your computer from a mobile device.
 
 ### [hxaxd-research](https://github.com/hxaxd/hxaxd-research)
 
-A research workbench I use for literature discovery, domain learning, idea review, experimental design, and execution.
+A research workbench I use for literature discovery, domain learning, idea review, experimental design, and execution — currently mainly in the form of a DeepSeek Harness (DSH) plugin.
 
 ## 🧭 Experience
 
