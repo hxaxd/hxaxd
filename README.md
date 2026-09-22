@@ -22,7 +22,7 @@
 
 ## 🛠 Work
 
-### [Kochab](https://github.com/hxaxd/kochab)
+### [Kochab](https://github.com/hxaxd/kochab) (work in progress)
 
 A minimal reference implementation of the agent-to-data loop, turning agent evaluations, real-world traces, and human feedback back into training data.
 
@@ -38,7 +38,7 @@ My computer science notes since my first year of university, organized by knowle
 
 Securely access any web service running on your computer from native Android, iOS, and HarmonyOS clients.
 
-### [hxaxd-research](https://github.com/hxaxd/hxaxd-research)
+### [hxaxd-research](https://github.com/hxaxd/hxaxd-research) (work in progress)
 
 A DeepSeek Harness plugin I use as my research workbench for literature discovery, domain learning, idea review, experimental design, and execution.
 
@@ -54,9 +54,9 @@ A DeepSeek Harness plugin I use as my research workbench for literature discover
 
 ## 🌍 Open Source Contributions
 
-**Fixes:** [E2B](https://github.com/e2b-dev/E2B/pull/1547), [OpenHands Software Agent SDK](https://github.com/OpenHands/software-agent-sdk/pull/4089), [Haystack](https://github.com/deepset-ai/haystack/pull/11967), [Pydantic AI](https://github.com/pydantic/pydantic-ai/pull/6463), [Google Agent Development Kit](https://github.com/google/adk-python/pull/6367), [FastMCP](https://github.com/PrefectHQ/fastmcp), [OpenHands](https://github.com/OpenHands/OpenHands), [A2A](https://github.com/a2aproject/A2A), and [gRPC](https://github.com/grpc/grpc).
+**Fixes & Docs:** [E2B](https://github.com/e2b-dev/E2B/pull/1547), [OpenHands Software Agent SDK](https://github.com/OpenHands/software-agent-sdk/pull/4089), [Haystack](https://github.com/deepset-ai/haystack/pull/11967), [Pydantic AI](https://github.com/pydantic/pydantic-ai/pull/6463), [Google Agent Development Kit](https://github.com/google/adk-python/pull/6367), [FastMCP](https://github.com/PrefectHQ/fastmcp), [OpenHands](https://github.com/OpenHands/OpenHands), [A2A](https://github.com/a2aproject/A2A), and [gRPC](https://github.com/grpc/grpc).
 
-**Features:** I'm looking to contribute features to good open source projects. If you have one, feel free to reach out.
+**Feature & Maintainer:** I'm looking to contribute features to good open source projects. If you have one, feel free to reach out.
 
 ## 🎓 Education
 
