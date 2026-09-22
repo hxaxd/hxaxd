@@ -24,7 +24,7 @@
 
 ### [Kochab](https://github.com/hxaxd/kochab)
 
-A framework that turns agent evaluations, real-world traces, and human feedback into verifiable, reviewable, and reversible improvements.
+A minimal reference implementation of the agent-to-data loop, turning agent evaluations, real-world traces, and human feedback back into training data.
 
 ### [Smart Breeding](http://47.97.117.46/)
 
@@ -36,7 +36,7 @@ My computer science notes since my first year of university, organized by knowle
 
 ### [Remote Everything](https://github.com/hxaxd/remote-everything)
 
-Connect to any web service running on your computer from a mobile device.
+Securely access any web service running on your computer from native Android, iOS, and HarmonyOS clients.
 
 ### [hxaxd-research](https://github.com/hxaxd/hxaxd-research)
 
