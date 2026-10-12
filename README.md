@@ -44,7 +44,9 @@ A DeepSeek Harness plugin I use as my research workbench for literature discover
 
 ## 🧭 Experience
 
-- **Agent Intern** · **\*\*\*\*\*\*\*\*\***
+- **Agent Intern** · [ByteDance](https://www.bytedance.com/) AI Data & Security
+
+  A team providing cross-modal data services for the Seed foundation models and AI-native applications, covering the full data production pipeline from model evaluation standards and large-scale data production to the data flywheel.
 
 - **Backend Engineer Intern** · [NeuroXess](https://www.neuroxess.com/)
 
