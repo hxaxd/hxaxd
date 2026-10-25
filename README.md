@@ -38,9 +38,9 @@ My computer science notes since my first year of university, organized by knowle
 
 Securely access any web service running on your computer from native Android, iOS, and HarmonyOS clients.
 
-### [hxaxd-research](https://github.com/hxaxd/hxaxd-research) (work in progress)
+### [hxaxd-research](https://github.com/hxaxd/hxaxd-research)
 
-A DeepSeek Harness plugin I use as my research workbench for literature discovery, domain learning, idea review, experimental design, and execution.
+A personal research workbench I built on Pi, tailored for landscape tablets, with ChatGPT subscription sign-in, voice input, and a dedicated paper translation workflow, covering literature discovery, reading comprehension, idea review, and experiment design and execution. **Mobile device support is powered by [Remote Everything](https://github.com/hxaxd/remote-everything).**
 
 ## 🧭 Experience
 
